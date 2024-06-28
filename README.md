@@ -4,11 +4,11 @@ This project provides a comprehensive dashboard for monitoring and analyzing var
 # Getting Started
 To get started with the Cryptocurrency Dashboard, follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using Git:
-    git clone https://github.com/va-ishnavi/CryptoCurrency
+    git clone https://github.com/asifiliyas/cryptocurrencycapstone
    
 2. Install Dependencies: Navigate to the project directory and install the required 
    dependencies using npm or yarn:
-   cd crypto-dashboard
+   cd CryptoDashboard
    
 3. Run the Application: Start the development server to launch the dashboard:
     npm start
@@ -25,7 +25,7 @@ Write clear explanations of your contributions when submitting a pull request.
 
 ## Demo Link
 
-It is deployed using Netlify -https://cryptocurrency-by-vg.netlify.app
+It is deployed using Netlify -https://asifiliyas-cryptodasboard.netlify.app/
 
 In the project directory, you can run:
 
@@ -46,4 +46,4 @@ Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## Author:
-GitHub: https://github.com/va-ishnavi
+GitHub: https://github.com/asifiliyas
